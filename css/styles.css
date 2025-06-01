@@ -3,11 +3,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 /* Tipografía general */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-family: 'Inter', sans-serif;
     line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
@@ -89,7 +91,7 @@ article a:hover {
     text-decoration: underline;
 }
 
-/* Pie de página */
+/* Footer */
 footer {
     text-align: center;
     padding: 20px;
