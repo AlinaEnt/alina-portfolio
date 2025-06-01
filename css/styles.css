@@ -6,23 +6,23 @@
 
 }
 
-/* Tipografía general */
+/* General */
 body {
 
     font-family: 'Inter', sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #f4f4f4;
     color: #333;
-    padding: 20px;
+    padding: 16px;
 }
 
-/* Encabezado */
+/* header */
 header {
     background-color: #e6f0f5;
     padding: 30px 20px;
     text-align: center;
     border-radius: 8px;
-    margin-bottom: 30px;
+    margin-bottom: 26px;
 }
 
 header h1 {
@@ -36,7 +36,7 @@ header p {
     margin-top: 10px;
 }
 
-/* Navegación */
+/* Navigation */
 nav ul {
     list-style: none;
     display: flex;
@@ -57,11 +57,10 @@ nav a:hover {
 
 /* Secciones principales */
 main section {
-    margin-bottom: 40px;
+    margin-bottom: 26px;
     padding: 20px;
     background-color: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 main h2 {
